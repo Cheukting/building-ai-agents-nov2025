@@ -2,7 +2,11 @@
 ### Presentation: [{ YOUR PRESENTATION NAME }](workshop/presentation_template.pdf)
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+In this workshop, we will first study the relationship between an AI Agent and an AI model. Then, by some hands-on exercises, we will learn how to choose the right model for building your own AI Agent; and how to build an AI Agent from scratch.
+
+This workshop is designed for participants to be creative and come up with their own unique AI agent ideas. We will only provide the basic knowledge and techniques needed to build an AI agent and guidance for problem-solving.
+
+By building an AI Agent and comparing AI models, we will learn more about how an AI Agent works and all the things we need to know when considering building an AI Agent for commercial use.
 
 ## Requirements
 * PyLadies Amsterdam uses [uv](https://docs.astral.sh/uv/) for dependency management
