@@ -84,7 +84,7 @@ For example, we can accept a prompt from the user with standard io in the termin
 
 ## Exercise 2.1 - Design an AI agent
 
-In this exercise, we will start by writing down our AI agent design. You can use any tools or event pen and papers for this exercise. Try follow the steps below.
+In this exercise, we will start by writing down our AI agent design. You can use any tools or even pen and papers for this exercise. Try to follow the steps below.
 
 1) Think of what kind of AI agent you would like to build. To make it simple, narrow the scope by picking a specific task the AI agent is designed for. Here are a few ideas:
 
